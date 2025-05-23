@@ -1,0 +1,29 @@
+# Core
+streamlit>=1.29.0
+python-dotenv>=1.0.0
+
+# Base de données
+sqlalchemy>=2.0.0
+alembic>=1.11.0
+
+# IA et Traitement
+openai>=1.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+nltk>=3.8.1
+spacy>=3.5.0
+
+# Génération de contenu
+stability-sdk>=0.8.0  # Pour Stable Diffusion
+moviepy>=1.0.3  # Pour la création de vidéos
+Pillow>=10.0.0  # Pour le traitement d'images
+requests>=2.31.0  # Pour les requêtes HTTP
+python-multipart>=0.0.6  # Pour le téléchargement de fichiers
+
+# Interface utilisateur
+plotly>=5.15.0  # Pour les graphiques
+streamlit-option-menu>=0.3.6  # Pour le menu déroulant
+
+# Développement
+toml>=0.10.2  # Pour la gestion de la configuration
+python-dotenv>=1.0.0  # Pour les variables d'environnement
